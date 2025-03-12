@@ -1,0 +1,4 @@
+github:
+  token: Bearer 
+  baseUrl: https://api.github.com/
+
